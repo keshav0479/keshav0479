@@ -1,22 +1,5 @@
 # Hi, I'm Keshav 👋
 
-
-## Coding
-<p align="center">
-  <a href="https://leetcode.com/keshav0479" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-  <a href="https://codechef.com/users/keshav0479" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/profile/keshav0479" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/keshav0479/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks" />
-  </a>
-</p>
-
 ---
 
 ## Connect With Me
