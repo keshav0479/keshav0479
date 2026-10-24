@@ -1,20 +1,8 @@
-<div align="center">
-
-<h3>Keshav</h3>
-
-<p>
- <i>"Vires in Numeris"</i>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="spiral-dark.svg">
+    <img src="spiral-light.svg" width="100%" alt="Prime numbers on a spiral that starts at 41. One diagonal holds 40 primes in a row.">
+  </picture>
 </p>
 
-<br>
-
-Mathematics & Computing
-
-C++ &nbsp;|&nbsp; Go &nbsp;|&nbsp; Algorithms
-
-<br>
-<br>
-
-<code>F97F C9A0 9490 0124 1375 0036 ABA6 76E2 ECB4 1746</code>
-
-</div>
+<p align="center"><i>the pass is already there. you just have to see it.</i></p>
